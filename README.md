@@ -13,11 +13,11 @@
     ## Progress 
 
 ### Getting Ready
--  [ ] 1📚   [ HTML BASICS ](https://github.com/ishani-1255/Learning-HTML-CSS/blob/main/Journey/Day01.md)
--  [ ] 2📚   [ CSS BASICS ]
--  [ ] 3📚   [ Hovers,Transitions,Shadows ]
--  [ ] 4📚   [ ChromeDevTools & CSS Box Model ]
--  [ ] 5📚   [ Text Styles ]
+-  [X] 1📚   [ HTML BASICS ](https://github.com/ishani-1255/Learning-HTML-CSS/blob/main/Journey/Day01.md)
+-  [X] 2📚   [ CSS BASICS ]
+-  [X] 3📚   [ Hovers,Transitions,Shadows ]
+-  [X] 4📚   [ ChromeDevTools & CSS Box Model ]
+-  [X] 5📚   [ Text Styles ]
 -  [ ] 6📚   [ HTML Structure ]
 -  [ ] 7📚   [ Images and TextBox ]
 -  [ ] 8📚   [ CSS Display Property]
