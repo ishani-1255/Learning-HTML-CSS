@@ -13,7 +13,7 @@
     ## Progress 
 
 ### Getting Ready
--  [ ] 1📚   [ HTML BASICS ](https://github.com/ishani-1255/Learning-JAVA/blob/main/Journey/Day01.md)
+-  [ ] 1📚   [ HTML BASICS ](https://github.com/ishani-1255/Learning-HTML-CSS/blob/main/Journey/Day01.md)
 -  [ ] 2📚   [ CSS BASICS ]
 -  [ ] 3📚   [ Hovers,Transitions,Shadows ]
 -  [ ] 4📚   [ ChromeDevTools & CSS Box Model ]
